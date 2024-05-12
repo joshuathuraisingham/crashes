@@ -1,0 +1,5 @@
+"","region","outcome","No","Yes","%-crashes","total-crashes"
+"1","Rest of NZ","Major Crash",1,0,1,1
+"2","Rest of NZ","Minor Crash",9,1,0.9,10
+"3","West Coast Region","Major Crash",4,1,0.8,5
+"4","West Coast Region","Minor Crash",8,0,1,8
